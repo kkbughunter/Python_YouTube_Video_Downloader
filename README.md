@@ -25,4 +25,5 @@ python -u main.py
 https://user-images.githubusercontent.com/91019132/174098151-778e049f-58ee-47fa-9811-1fb501b6e423.mp4
 
 This project is done by Karthikeyan.A June 16 2022\
-CSE Dept at SSN College of Engineering
+CSE Dept in SSN College of Engineering\
+Time taken 2 days
