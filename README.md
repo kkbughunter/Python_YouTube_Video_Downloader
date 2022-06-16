@@ -12,5 +12,14 @@ Before run:
 pip install tk
 ```
 
+### How to run
+step-1 Download the repository
+step-2 unzib it
+step-3 goto main.py folder and open Command prompt in the same direction
+step-4 run the below code
+```python 
+python -u main.py
+```
+
 ## How to use this application
 https://user-images.githubusercontent.com/91019132/174098151-778e049f-58ee-47fa-9811-1fb501b6e423.mp4
