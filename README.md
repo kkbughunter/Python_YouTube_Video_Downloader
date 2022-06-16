@@ -13,10 +13,10 @@ pip install tk
 ```
 
 ### How to run
-step-1 Download the repository
-step-2 unzib it
-step-3 goto main.py folder and open Command prompt in the same direction
-step-4 run the below code
+###### step-1 Download the repository
+###### step-2 unzib it
+###### step-3 goto main.py folder and open Command prompt in the same direction
+###### step-4 run the below code
 ```python 
 python -u main.py
 ```
