@@ -4,7 +4,7 @@
   
   Mostly in first semester in Engineering you will learn python basic in that time if you learn this Tkinter basic make you more interesting to do more projects and assignments.
   
-Before run:
+## Before run:
   Install this package Tkinter use this command - 
 
 
@@ -21,7 +21,7 @@ pip install tk
 python -u main.py
 ```
 
-## How to use this application
+### How to use this application
 https://user-images.githubusercontent.com/91019132/174098151-778e049f-58ee-47fa-9811-1fb501b6e423.mp4
 
 This project is done by Karthikeyan.A June 16 2022\
